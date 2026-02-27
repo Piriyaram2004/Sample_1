@@ -1,0 +1,14 @@
+
+#title{
+    border: 3px solid rgb(255, 255, 255);
+    border-radius: 120px 100px 90px 80px;
+    font-family: 'Courier New', Courier, monospace;
+    color: rgb(0, 0, 0);
+    font-weight: bolder;
+    text-align: center;
+}
+body{
+    background: url(../OIP.webp) no-repeat right center fixed ;
+    background: linear-gradient( 100deg, red,yellow,green);
+    font-weight: bolder;
+}
